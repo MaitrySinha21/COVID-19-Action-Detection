@@ -1,4 +1,4 @@
-## COVID-19-Action-Detection
+### COVID-19-Action-Detection
 
 ## nvidia Hackathon Final Round Project-2
 
